@@ -1,0 +1,4 @@
+# Packages #
+############
+__pycache__*/
+.idea*/
